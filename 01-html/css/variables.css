@@ -18,5 +18,21 @@
 
     --color-border: #E2E8F0;
 
+    --space-xs: 8px;    /* detalles pequeños, separación entre elementos muy cercanos */
+    --space-sm: 16px;   /* padding de botones, gaps pequeños */
+    --space-md: 24px;   /* espaciados generales */
+    --space-lg: 40px;   /* padding de secciones tipo tu .hero */
+    --space-xl: 64px;   /* separación entre grandes bloques */
+    --space-2xl: 100px; /* margin entre section, como ya tienes */
+
+    --font-size-xs: 12px;
+    --font-size-sm: 14px;   
+    --font-size-md: 16px;   /* tamaño fuente generales */
+    --font-size-lg: 20px;
+    --font-size-xl: 24px;   
+    --font-size-2xl: 32px;
+
+    --font-heading: 'Bricolage Grotesque', sans-serif;
+    --font-body: 'Inter', sans-serif;
 }
 
